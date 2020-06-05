@@ -6,3 +6,4 @@ Sdupid boss HH
 
 Creating a new branch is quick and simple.
 
+测试禁用ff模式
