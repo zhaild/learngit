@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 第二次修改
 Sdupid boss HH
 
-Creating a new branch is quick AND simple.
+Creating a new branch is quick and simple.
+
