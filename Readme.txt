@@ -3,3 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 第二次修改
 Sdupid boss HH
+
+Creating a new branch is quick.
